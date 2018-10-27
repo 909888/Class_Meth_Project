@@ -10,6 +10,13 @@ namespace Class_Meth_Project
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+            Console.ReadLine();
         }
     }
 }
